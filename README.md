@@ -7,7 +7,7 @@ This repo provides the *Source code* for our TteK paper. The published paper can
 - **Jonsson, A.H.\***, **Zhang, F.\***, Dunlap, G., Gomez-Rivas, E., Watts, G.F.M., Faust, H., Rupani, K., Rupani, K.V., Mears, J.R., Meednu, N., Wang, R., Keras, G., Coblyn J., Massarotti, E., Todd, D., Anolik, J.H., McDavid, A., AMP RA/SLE, Wei, K., Rao, D.A., **Raychaudhuri, S.\***, **Brenner, M.B.\***. Granzyme K+ CD8 T cells form a core population in inflamed human tissue, ***Science Translational Medicine***, 2022, Cover article!
 
 
-<img src="https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/science_translational_medicine_cover_article.png" width="500" align="right">
+<img src="https://github.com/fanzhanglab/TteK/blob/main/science_translational_medicine_cover_article.png" width="500" align="right">
 
 
 *: co-first author
